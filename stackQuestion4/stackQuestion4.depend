@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587808467 source:d:\datastructure\stackquestion4\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
